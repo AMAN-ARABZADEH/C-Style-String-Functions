@@ -1,6 +1,11 @@
 #include <iostream>
 #include <cstring>
 #include <cctype>
+/*
+ * Auther: Aman Arabzadeh
+ * Date: 2023-07-07
+ *  C-Style String and Character Manipulation in C++
+ */
 
 int main() {
     // This code snippet demonstrates the usage of various C-style string functions and C++ functions from the <cctype> library. Here's a breakdown of what the code does:
