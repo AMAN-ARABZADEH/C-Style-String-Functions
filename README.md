@@ -46,6 +46,9 @@ Feel free to explore these sources to enhance your knowledge of string manipulat
 2. Compile and run the code using a C++ compiler.
 
 3. Observe the output of each operation to understand how C-style strings are manipulated and characters are classified.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to explore the code and experiment with different C-style string and character manipulation functions.
 
